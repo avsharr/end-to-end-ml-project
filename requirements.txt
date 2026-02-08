@@ -1,6 +1,8 @@
 pandas
 numpy
 seaborn
+kagglehub
+scikit-learn
 
 -e .
 
