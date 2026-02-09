@@ -3,6 +3,9 @@ numpy
 seaborn
 kagglehub
 scikit-learn
+dill
+xgboost
+catboost
 
 -e .
 
